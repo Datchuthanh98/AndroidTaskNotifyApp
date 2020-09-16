@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Đăng xuất"
+    android:id="@+id/mLogout"/>
+    <item
+        android:title="Contact"
+        android:id="@+id/mContact">
+        <menu>
+            <item
+                android:title="Phone"
+                android:id="@+id/mPhone"/>
+            <item
+                android:title="Email"
+                android:id="@+id/mEmail"/>
+        </menu>
+    </item>
+    <item
+        android:title="Exit"
+        android:id="@+id/mExit"/>
+</menu>

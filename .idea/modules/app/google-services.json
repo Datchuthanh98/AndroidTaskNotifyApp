@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809693160065",
+    "firebase_url": "https://phamphuong-f2af8.firebaseio.com",
+    "project_id": "phamphuong-f2af8",
+    "storage_bucket": "phamphuong-f2af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809693160065:android:03d37bf6b637daf6482380",
+        "android_client_info": {
+          "package_name": "com.example.phamphuong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809693160065-vfiqihtt20gqg2g9n9c9uff93jbjd3jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phamphuong",
+            "certificate_hash": "408162d23581c84174e592045f96de9fdff3ac70"
+          }
+        },
+        {
+          "client_id": "809693160065-el2mk9g64f8spvdsfbqkrjsgdcmrj3e6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXtRcMbJhgFYvHS0UfxZq5nlak6Tys6qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809693160065-el2mk9g64f8spvdsfbqkrjsgdcmrj3e6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
